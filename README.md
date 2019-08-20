@@ -63,6 +63,13 @@
 
 ## Tools
 
+### Analytics/Tracking
+[Mixpanel](https://mixpanel.com)<br/>
+[Fullstory](https://www.fullstory.com)<br/>
+[Hotjar](https://www.hotjar.com)<br/>
+[Segment](https://segment.com)<br/>
+[Google Analytics](https://analytics.google.com)<br/>
+
 ### Data
 [AirTable](https://airtable.com)<br/>
 
