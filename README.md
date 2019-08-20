@@ -113,6 +113,7 @@
 [Hotjar](https://www.hotjar.com)<br/>
 [Segment](https://segment.com)<br/>
 [Google Analytics](https://analytics.google.com)<br/>
+[Sentry](https://sentry.io)<br/>
 
 ### Data
 [AirTable](https://airtable.com)<br/>
