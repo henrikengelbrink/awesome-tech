@@ -36,6 +36,13 @@
 [Iron](https://iron.io/)<br/>
 [Fn](https://fnproject.io/)<br/>
 
+## Frontend
+
+[Angular](https://angular.io/)<br/>
+[React](https://reactjs.org/)<br/>
+[Vue](https://vuejs.org)<br/>
+[Nuxt](https://nuxtjs.org/)<br/>
+
 ## API's
 
 ### AI/ML
@@ -52,6 +59,11 @@
 [Twilio](https://www.twilio.com/)<br/>
 [SendGrid](https://sendgrid.com/)<br/>
 
+## Crowwork
+[Clickworker](https://www.clickworker.com/)<br/>
+[MTurk](https://www.mturk.com/)<br/>
+[Cint](https://www.cint.com/de/)<br/>
+
 ## Auth
 [Auth0](https://auth0.com/)<br/>
 [FusionAuth](https://fusionauth.io/)<br/>
@@ -61,7 +73,39 @@
 [Ory](https://www.ory.sh/)<br/>
 [Gluu](https://www.gluu.org/)<br/>
 
+## Monitoring/APM/Logs
+[DataDog](https://www.datadoghq.com/)<br/>
+[NewRelic](https://newrelic.de/)<br/>
+[Elastic Stack](https://www.elastic.co/)<br/>
+[]()<br/>
+[]()<br/>
+
+## CI/CD
+[Github Actions](https://github.com/features/actions)<br/>
+[Travis CI](https://travis-ci.org/)<br/>
+[Drone CI](https://drone.io/)<br/>
+[Circle CI](https://drone.io/)<br/>
+[Wercker](https://app.wercker.com/sessions/new?return_url=%2F)<br/>
+[Jenkins](https://jenkins.io/)<br/>
+[]()<br/>
+[]()<br/>
+
+## IoT
+[Particle](https://www.particle.io/)<br/>
+[Balena](https://www.balena.io/)<br/>
+[Mongoose OS](https://mongoose-os.com/)<br/>
+[]()<br/>
+
+## Apps
+[Flutter](https://flutter.dev/)<br/>
+[React Native](https://facebook.github.io/react-native/)<br/>
+
 ## Tools
+
+## Infrastructure
+[Docker](https://www.docker.com/)<br/>
+[Kubernetes](https://kubernetes.io/de/)<br/>
+[Terraform](https://www.terraform.io/)<br/>
 
 ### Analytics/Tracking
 [Mixpanel](https://mixpanel.com)<br/>
