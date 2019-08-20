@@ -2,24 +2,24 @@
 
 ## Backend
 
-### JVM
-[GraalVM](https://www.graalvm.org/)<br/>
-[Micronaut](https://micronaut.io/)<br/>
-[Helidon](https://helidon.io/)<br/>
-[Quarkus](https://quarkus.io/)<br/>
-[ktor](https://ktor.io/)<br/>
+  ### JVM
+  [GraalVM](https://www.graalvm.org/)<br/>
+  [Micronaut](https://micronaut.io/)<br/>
+  [Helidon](https://helidon.io/)<br/>
+  [Quarkus](https://quarkus.io/)<br/>
+  [ktor](https://ktor.io/)<br/>
 
-### Go
-[Gin](https://gin-gonic.com/)<br/>
-[Echo](https://echo.labstack.com/)<br/>
+  ### Go
+  [Gin](https://gin-gonic.com/)<br/>
+  [Echo](https://echo.labstack.com/)<br/>
 
-### Swift
-[Vapor](https://vapor.codes/)<br/>
-[Kitura](https://www.kitura.io/)<br/>
-[Perfect](https://perfect.org/)<br/>
+  ### Swift
+  [Vapor](https://vapor.codes/)<br/>
+  [Kitura](https://www.kitura.io/)<br/>
+  [Perfect](https://perfect.org/)<br/>
 
-### GraphQL
-[Hasura](https://hasura.io/)<br/>
+  ### GraphQL
+  [Hasura](https://hasura.io/)<br/>
 
 ## Databases
 [Postgres](https://www.postgresql.org/)<br/>
@@ -37,7 +37,6 @@
 [Fn](https://fnproject.io/)<br/>
 
 ## Frontend
-
 [Angular](https://angular.io/)<br/>
 [React](https://reactjs.org/)<br/>
 [Vue](https://vuejs.org)<br/>
@@ -45,24 +44,24 @@
 
 ## API's
 
-### AI/ML
-[Nanonets](https://nanonets.com/)<br/>
-[Clarifai](https://www.clarifai.com/)<br/>
-[Aylien](https://aylien.com/)<br/>
+  ### AI/ML
+  [Nanonets](https://nanonets.com/)<br/>
+  [Clarifai](https://www.clarifai.com/)<br/>
+  [Aylien](https://aylien.com/)<br/>
 
-### Payment
-[Stripe](https://stripe.com)<br/>
-[EasyBill](https://www.easybill.de)<br/>
-[Billie](https://www.billie.io/)<br/>
+  ### Payment
+  [Stripe](https://stripe.com)<br/>
+  [EasyBill](https://www.easybill.de)<br/>
+  [Billie](https://www.billie.io/)<br/>
 
-### Communication
-[Twilio](https://www.twilio.com/)<br/>
-[SendGrid](https://sendgrid.com/)<br/>
+  ### Communication
+  [Twilio](https://www.twilio.com/)<br/>
+  [SendGrid](https://sendgrid.com/)<br/>
 
-## Crowwork
-[Clickworker](https://www.clickworker.com/)<br/>
-[MTurk](https://www.mturk.com/)<br/>
-[Cint](https://www.cint.com/de/)<br/>
+  ### Crowwork
+  [Clickworker](https://www.clickworker.com/)<br/>
+  [MTurk](https://www.mturk.com/)<br/>
+  [Cint](https://www.cint.com/de/)<br/>
 
 ## Auth
 [Auth0](https://auth0.com/)<br/>
@@ -100,27 +99,27 @@
 [Flutter](https://flutter.dev/)<br/>
 [React Native](https://facebook.github.io/react-native/)<br/>
 
-## Tools
-
 ## Infrastructure
 [Docker](https://www.docker.com/)<br/>
 [Kubernetes](https://kubernetes.io/de/)<br/>
 [Terraform](https://www.terraform.io/)<br/>
 
-### Analytics/Tracking
-[Mixpanel](https://mixpanel.com)<br/>
-[Fullstory](https://www.fullstory.com)<br/>
-[Hotjar](https://www.hotjar.com)<br/>
-[Segment](https://segment.com)<br/>
-[Google Analytics](https://analytics.google.com)<br/>
+## Tools
 
-### Data
-[AirTable](https://airtable.com)<br/>
-[Retool](https://tryretool.com)<br/>
-[Forest Admin](https://www.forestadmin.com/)<br/>
-[Redash](https://redash.io/)<br/>
-[Mode](https://mode.com/)<br/>
+  ### Analytics/Tracking
+  [Mixpanel](https://mixpanel.com)<br/>
+  [Fullstory](https://www.fullstory.com)<br/>
+  [Hotjar](https://www.hotjar.com)<br/>
+  [Segment](https://segment.com)<br/>
+  [Google Analytics](https://analytics.google.com)<br/>
 
-### Feedback
-[Nolt](https://nolt.io)<br/>
+  ### Data
+  [AirTable](https://airtable.com)<br/>
+  [Retool](https://tryretool.com)<br/>
+  [Forest Admin](https://www.forestadmin.com/)<br/>
+  [Redash](https://redash.io/)<br/>
+  [Mode](https://mode.com/)<br/>
+
+  ### Feedback
+  [Nolt](https://nolt.io)<br/>
 
