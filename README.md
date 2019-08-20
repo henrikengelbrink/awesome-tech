@@ -72,6 +72,10 @@
 
 ### Data
 [AirTable](https://airtable.com)<br/>
+[Retool](https://tryretool.com)<br/>
+[Forest Admin](https://www.forestadmin.com/)<br/>
+[Redash](https://redash.io/)<br/>
+[Mode](https://mode.com/)<br/>
 
 ### Feedback
 [Nolt](https://nolt.io)<br/>
