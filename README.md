@@ -35,3 +35,37 @@
 [Apache OpenWhisk](https://openwhisk.apache.org/)<br/>
 [Iron](https://iron.io/)<br/>
 [Fn](https://fnproject.io/)<br/>
+
+## API's
+
+### AI/ML
+[Nanonets](https://nanonets.com/)<br/>
+[Clarifai](https://www.clarifai.com/)<br/>
+[Aylien](https://aylien.com/)<br/>
+
+### Payment
+[Stripe](https://stripe.com)<br/>
+[EasyBill](https://www.easybill.de)<br/>
+[Billie](https://www.billie.io/)<br/>
+
+### Communication
+[Twilio](https://www.twilio.com/)<br/>
+[SendGrid](https://sendgrid.com/)<br/>
+
+## Auth
+[Auth0](https://auth0.com/)<br/>
+[FusionAuth](https://fusionauth.io/)<br/>
+[AWS Cognito](https://aws.amazon.com/cognito/)<br/>
+[Gluu](https://www.gluu.org/)<br/>
+[Keycloak](https://www.keycloak.org)<br/>
+[Ory](https://www.ory.sh/)<br/>
+[Gluu](https://www.gluu.org/)<br/>
+
+## Tools
+
+### Data
+[AirTable](https://airtable.com)<br/>
+
+### Feedback
+[Nolt](https://nolt.io)<br/>
+
