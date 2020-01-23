@@ -59,7 +59,7 @@
 [Twilio](https://www.twilio.com/)<br/>
 [SendGrid](https://sendgrid.com/)<br/>
 
-### Crowwork
+### Crodwork
 [Clickworker](https://www.clickworker.com/)<br/>
 [MTurk](https://www.mturk.com/)<br/>
 [Cint](https://www.cint.com/de/)<br/>
@@ -78,7 +78,7 @@
 [NewRelic](https://newrelic.de/)<br/>
 [Elastic Stack](https://www.elastic.co/)<br/>
 [Timber.io](https://timber.io)<br/>
-[]()<br/>
+[humio](https://www.humio.com/)<br/>
 
 ## CI/CD
 [Github Actions](https://github.com/features/actions)<br/>
@@ -87,23 +87,34 @@
 [Circle CI](https://drone.io/)<br/>
 [Wercker](https://app.wercker.com/sessions/new?return_url=%2F)<br/>
 [Jenkins](https://jenkins.io/)<br/>
-[]()<br/>
-[]()<br/>
 
 ## IoT
 [Particle](https://www.particle.io/)<br/>
 [Balena](https://www.balena.io/)<br/>
 [Mongoose OS](https://mongoose-os.com/)<br/>
-[]()<br/>
 
 ## Apps
 [Flutter](https://flutter.dev/)<br/>
 [React Native](https://facebook.github.io/react-native/)<br/>
 
-## Infrastructure
+## DevOps/Infrastructure
 [Docker](https://www.docker.com/)<br/>
 [Kubernetes](https://kubernetes.io/de/)<br/>
 [Terraform](https://www.terraform.io/)<br/>
+[Vault](https://www.vaultproject.io/)<br/>
+
+### Docker Registries
+[Harbor](https://goharbor.io/)<br/>
+[jFrog](https://www.jfrog.com/confluence/display/RTF/Docker+Registry)<br/>
+[Project Quay](https://www.projectquay.io/)<br/>
+[Docker](https://docs.docker.com/registry/deploying/)<br/>
+[Portus](http://port.us.org/)<br/>
+
+### Service Mesh
+[Istio](https://istio.io/)<br/>
+[Linkerd](https://linkerd.io/)<br/>
+[Consul](https://www.consul.io/)<br/>
+
 
 ## Tools
 
