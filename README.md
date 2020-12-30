@@ -102,6 +102,11 @@
 [Balena](https://www.balena.io/)<br/>
 [Mongoose OS](https://mongoose-os.com/)<br/>
 
+## MQTT Broker
+[VerneMQ](https://vernemq.com/)<br/>
+[EMQ](https://www.emqx.io/)<br/>
+[HiveMQ](https://www.hivemq.com/)<br/>
+
 ## Apps
 [Flutter](https://flutter.dev/)<br/>
 [React Native](https://facebook.github.io/react-native/)<br/>
