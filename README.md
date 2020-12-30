@@ -28,6 +28,7 @@
 [MongoDB](https://www.mongodb.com/)<br/>
 [ElasticSearch](https://www.elastic.co/)<br/>
 [TimescaleDB](https://www.timescale.com/)<br/>
+[HarperDB](https://harperdb.io/)<br/>
 
 ## Serverless Kubernetes
 [Fission](https://fission.io/)<br/>
@@ -54,12 +55,13 @@
 [Stripe](https://stripe.com)<br/>
 [EasyBill](https://www.easybill.de)<br/>
 [Billie](https://www.billie.io/)<br/>
+[Adyen](https://www.adyen.com)<br/>
 
 ### Communication
 [Twilio](https://www.twilio.com/)<br/>
 [SendGrid](https://sendgrid.com/)<br/>
 
-### Crodwork
+### Crowdwork
 [Clickworker](https://www.clickworker.com/)<br/>
 [MTurk](https://www.mturk.com/)<br/>
 [Cint](https://www.cint.com/de/)<br/>
