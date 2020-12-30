@@ -43,6 +43,13 @@
 [React](https://reactjs.org/)<br/>
 [Vue](https://vuejs.org)<br/>
 [Nuxt](https://nuxtjs.org/)<br/>
+[NextJS](https://nextjs.org/)<br/>
+
+## Event Driven
+[Kafka](https://kafka.apache.org/)<br/>
+[Pulsar](https://pulsar.apache.org/)<br/>
+[NATS](https://nats.io/)<br/>
+[RabbitMQ](https://www.rabbitmq.com/)<br/>
 
 ## API's
 
