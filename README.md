@@ -155,3 +155,12 @@
 [Teller](https://tlr.dev)<br/>
 [tailscale](https://tailscale.com)<br/>
 [Klepto](https://github.com/hellofresh/klepto)<br/>
+
+### Co-Browsing
+[Cohere](https://cohere.io)<br/>
+[Fullview](https://www.fullview.io)<br/>
+[Upscope](https://upscope.com)<br/>
+
+### Customer Success
+[Vitally](https://www.vitally.io)
+[Custify](https://www.custify.com)
