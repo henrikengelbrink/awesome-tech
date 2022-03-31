@@ -162,5 +162,5 @@
 [Upscope](https://upscope.com)<br/>
 
 ### Customer Success
-[Vitally](https://www.vitally.io)
-[Custify](https://www.custify.com)
+[Vitally](https://www.vitally.io)<br/>
+[Custify](https://www.custify.com)<br/>
